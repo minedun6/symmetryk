@@ -1,26 +1,30 @@
 {
-    "briefcases": {
-        "id": 1,
-        "name": "Briefcase #1",
-        "description": "lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incid",
-        "thumbnail": "",
-        "locked_at": "",
-        "warning": "",
-        "created_at": "",
-        "updated_at": ""
-    },
-    "tiles": {
-        "id": 1,
-        "name": "Tile #1",
-        "briefcaseId": 1
-    },
-    "nodes": {
-
-    },
-    "files": {
-
-    },
-    "sub_files": {
-
-    }
+    "briefcases": [
+        {
+            "id": 1,
+            "name": "Briefcase #1",
+            "description": "lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incid",
+            "thumbnail": "",
+            "locked_at": "",
+            "warning": "",
+            "created_at": "",
+            "updated_at": ""
+        }
+    ],
+    "tiles": [
+        {
+            "id": 1,
+            "name": "Tile #1",
+            "briefcaseId": 1
+        }
+    ],
+    "nodes": [
+        {}
+    ],
+    "files": [
+        {}
+    ],
+    "sub_files": [
+        {}
+    ]
 }
