@@ -10,7 +10,9 @@
         "updated_at": ""
     },
     "tiles": {
-
+        "id": "",
+        "name": "",
+        "briefcaseId": 1
     },
     "nodes": {
 
