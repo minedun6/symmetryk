@@ -1,0 +1,24 @@
+{
+    "briefcases": {
+        "id": 1,
+        "name": "Briefcase #1",
+        "description": "lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incid",
+        "thumbnail": "",
+        "locked_at": "",
+        "warning": "",
+        "created_at": "",
+        "updated_at": ""
+    },
+    "tiles": {
+
+    },
+    "nodes": {
+
+    },
+    "files": {
+
+    },
+    "sub_files": {
+
+    }
+}
