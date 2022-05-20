@@ -2,11 +2,19 @@
     "briefcases": [
         {
             "id": 1,
-            "name": "Briefcase #1",
-            "description": "lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incid",
+            "name": "",
+            "description": "",
+            "version": "1.0",
             "thumbnail": "",
+            "background": "",
+            "background_retina": "",
             "locked_at": "",
             "warning": "",
+            "warning_skip": false,
+            "warning_title": "",
+            "warning_content": "",
+            "warning_file_title": "",
+            "warning_file_content": "",
             "created_at": "",
             "updated_at": ""
         },
@@ -16,8 +24,31 @@
     ],
     "tiles": [
         {
-            "id": 1,
-            "name": "Tile #1",
+            "id": "",
+            "name": "Videos",
+            "description": "",
+            "icon": "",
+            "font_size": 12,
+            "title_size": 26,
+            "desc_size": 14,
+            "text_color": "",
+            "background_color": "",
+            "background_opacity": "",
+            "start_x": "",
+            "start_y": "",
+            "end_x": "",
+            "end_y": "",
+            "width": "",
+            "height": "",
+            "third_party_integrations": {
+                "veeva": false,
+                "veeva_linked_at": null,
+                "aprimo": false,
+                "aprimo_linked_at": null,
+                "sharepoint": false,
+                "sharepoint_linked_at": null
+            },
+            "index": 0,
             "briefcaseId": 1
         }
     ],
